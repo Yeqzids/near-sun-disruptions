@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# others
+data/sim_granvik_model/*/*.int.dat.gz
+data/sim_granvik_model/*/*.int.asc
+nb/*-old.ipynb
+nb/*-unused.ipynb
+
