@@ -1,3 +1,7 @@
-# Data and plot repository of "debris of asteroid disruptions close to the Sun"
+# Debris of asteroid disruptions close to the Sun
 
-Here you will find the data and the Jupyter notebook codes that generate the result of the paper, with one exception: the integration products are not included here due to their sizes. Request of these files should be sent to Quanzhi Ye (qye at caltech.edu).
+[![DOI](https://zenodo.org/badge/167060117.svg)](https://zenodo.org/badge/latestdoi/167060117)
+
+<strong>Quanzhi Ye</strong> and <strong>Mikael Granvik</strong>
+
+Here you will find the data and the Jupyter notebook codes that generate the result of the paper, with one exception: the products from the integration are not included here due to their sizes. Request of these files should be sent to Quanzhi Ye (qye at caltech.edu).
